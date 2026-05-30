@@ -1,0 +1,12 @@
+# Arquivos de build
+*.o
+*.elf
+*.bin
+*.map
+
+# Binários de execução
+main
+
+# Pastas de IDEs (opcional, mas recomendado)
+.vscode/
+.idea/
