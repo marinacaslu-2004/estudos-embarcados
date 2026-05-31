@@ -14,13 +14,14 @@ Foco atual: **Módulo 1 — Fundamentos de C para Sistemas Embarcados.**
 
 ## 🛠️ Tecnologias e Conceitos
 - Linguagem: C
-- Conceitos: Aritmética de ponteiros, alocação de memória, manipulação de arrays e buffers, padrão de codificação profissional.
-- Ferramentas: Git/GitHub, GCC, PowerShell.
+- Conceitos: Ponteiros (`*`, `&`), Aritmética de Ponteiros, Qualificadores (`const`, `volatile`), Estruturação de projetos.
+- Ferramentas: Git/GitHub, GCC, VSCode.
 
 ## 📝 Aulas Concluídas
 - **Aula 1:** Alocação Estrita de Memória e uso de `stdint.h`.
 - **Aula 2:** Mapa da Memória e Ponteiros (`&`, `*`).
 - **Aula 3:** Aritmética de Ponteiros e Arrays em firmware.
+- **Aula 4:** Ponteiros Constantes (`const`) e Qualificadores de Acesso (`volatile`).
 
 ## 👨‍💻 Autor
 Desenvolvido por **Marina** sob mentoria técnica.
